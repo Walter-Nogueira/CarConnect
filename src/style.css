@@ -7,7 +7,7 @@ body{
 .main-login{
     width: 100vw;
     height: 100vh;
-    background: #ffffff;
+    background-image: linear-gradient(to right, #7EC0EE, #7CBDEB);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,7 +35,8 @@ body{
     align-items: center;
 }
 .card-login{
-    width: 50%;
+    width: 40%;
+    height: 60%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,11 +44,10 @@ body{
     padding: 30px 35px;
     border-radius: 15px;
     box-shadow: 10px 10px 40px #00000056;
-    background-image: linear-gradient(to right, #0F3446, #224455, #2F505F,
-    #415E6C);
+    background-color: #ffff;
 }
 .card-login > h1{
-    color: #00ff88;
+    color: black;
     font-weight: 800;
     margin: 0;
 }
@@ -62,16 +62,16 @@ body{
     width: 100%;
     border: none;
     border-radius: 10px;
-    padding: 15px;
+    padding: 15px 10px;
     background: #ffff;
     color: #000000de;
     font-size: 12pt;
-    box-shadow: 0px 10px 40px #00000056;
+    box-shadow: 0px 20px 200px #00000056;
     outline: none;
     box-sizing: border-box;
 }
 .textfield > label{
-    color: white;
+    color: black;
     margin-bottom: 10px;
 
 }
@@ -88,13 +88,16 @@ body{
     text-transform: uppercase;
     font-weight: 800;
     letter-spacing: 3px;
-    color: #11506e;
+    color: #ffffff;
     box-shadow: 0px 10px 15px #00000056;
-    background-image: linear-gradient(to right, #64ee85, #92f3a9);
+    background-image: linear-gradient(to right, #7EC0EE, #7CBDEB);
     cursor: pointer;
 }
 .para-link{
     text-align: center;
     margin-top: 0px;
-    color: white;
+    color: black;
+}
+.para-link > href{
+    color: black;
 }
