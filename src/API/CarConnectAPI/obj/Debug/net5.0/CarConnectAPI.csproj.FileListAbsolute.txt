@@ -1,6 +1,0 @@
-C:\Users\Walter Nogueira\Desktop\Arquivos\CarConnect\src\API\CarConnectAPI\obj\Debug\net5.0\CarConnectAPI.csproj.AssemblyReference.cache
-C:\Users\Walter Nogueira\Desktop\Arquivos\CarConnect\src\API\CarConnectAPI\obj\Debug\net5.0\CarConnectAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Walter Nogueira\Desktop\Arquivos\CarConnect\src\API\CarConnectAPI\obj\Debug\net5.0\CarConnectAPI.AssemblyInfoInputs.cache
-C:\Users\Walter Nogueira\Desktop\Arquivos\CarConnect\src\API\CarConnectAPI\obj\Debug\net5.0\CarConnectAPI.AssemblyInfo.cs
-C:\Users\Walter Nogueira\Desktop\Arquivos\CarConnect\src\API\CarConnectAPI\obj\Debug\net5.0\CarConnectAPI.csproj.CoreCompileInputs.cache
-C:\Users\Walter Nogueira\Desktop\Arquivos\CarConnect\src\API\CarConnectAPI\obj\Debug\net5.0\CarConnectAPI.MvcApplicationPartsAssemblyInfo.cache
